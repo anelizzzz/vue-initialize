@@ -6,7 +6,6 @@
         <div v-else>
             Dashboard is not yet authorized. Please authorize first.
         </div>
-        This is dashboard for user -<span>{{ auth.username }}</span>
     </div>
 </template>
 
